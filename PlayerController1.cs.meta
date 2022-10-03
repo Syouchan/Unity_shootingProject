@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10cc6980b1a15da438ce883f007c2c82
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BulletPosition: {instanceID: 0}
+  - syuriken: {fileID: 8212014453698513454, guid: db8a377f75799bd43bffb3569b49f2b9, type: 3}
+  - kunai: {fileID: 1120997646098328363, guid: 0970fc16a563d2943b897d21ac198a1b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
